@@ -5,7 +5,7 @@ Open R studio
       Give a title to it > select HTML as a default output and save the file.
  Click on Knit button > select knit to HTML( you can also select knit to pdf or word ) - It will ask you to save the file in html format > save the file >
  
- We can insert R code chunks, plots, tales etc.. in the R markdown file.
+ We can insert R code chunks, plots, tables etc.. in the R markdown file.
  
  Insert R codechunks in the R markdown file by using the code below.
            ```{r cars}
